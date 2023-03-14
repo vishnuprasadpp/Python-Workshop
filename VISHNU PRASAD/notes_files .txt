@@ -1,0 +1,9 @@
+# .isdigit() #check whether the elementis digit
+# .strip() #neglect blank spaces before and after the elements
+# .readlines #files
+# .split(argument) #to split the elements with any parameters, default the argument will be by a space
+# #with open 
+# with open(filename) as file:
+#     code to Run
+    
+# # no need to close the file already opened
